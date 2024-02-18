@@ -325,3 +325,126 @@
     font-weight: 500;
     line-height: 156.06%;
 }
+.footer-div{
+    padding-top: 0;
+    margin-top: 0;
+    width: 1920.809px;
+    height: 791px;
+    background: var(--Linear-Gradient, linear-gradient(180deg, #141E2F 0%, #203F51 47.4%, #0E1921 99.48%));
+}
+.footer-text-1{
+    color: var(--White, #FFF);
+    font-family: Jost;
+    font-size: 21.342px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 37.349px;
+}
+.footer-text-2{
+    color: var(--White, #FFF);
+    font-family: Jost;
+    font-size: 21.342px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    opacity: 0.75;
+}
+.sub-div{
+    padding-left: 331px;
+    padding-right: 330px;
+}
+.subscribe-div{
+    width: 450.857px;
+    height: 344.145px;
+    border-radius: 12px;
+    background: #CACACA;
+    opacity: 0.1;
+}
+.subscribe-text-1{
+    width: 98.708px;
+    height: 37.349px;
+    color: var(--White, #FFF);
+    font-family: Jost;
+    font-size: 21.342px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 37.349px;
+}
+.subscribe-text-2{
+    width: 348px;
+    height: 109px; 
+    color: var(--White, #FFF);
+    font-family: Jost;
+    font-size: 16.007px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 27.211px;
+}
+.outer-email{
+    width: 330.806px;
+    height: 66.695px;
+    border-radius: 8.003px;
+    border: 2.001px solid #E7E8F2;
+    background: #FFF;
+}
+.outer-email-text{
+    width: 115px;
+    height: 24px;
+    color: #7A7E92;
+    font-family: Jost;
+    font-size: 18.675px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.inner-email{
+    width: 66.695px;
+    height: 66.695px;
+    fill: #142531;
+}
+.last-part-text{
+    width: 50.688px;
+    height: 24.01px;
+    color: var(--White, #FFF);
+    font-family: Jost;
+    font-size: 18.675px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.last-footer-div{
+    padding-left: 600px;
+}
+  
+  .white-box {
+    width: 410px;
+    height: 305px;
+    padding: 30px 40px 10px 40px;
+    border-radius: 10px;
+    background-color: #cacaca1b;
+  }
+  
+  #footer p {
+    font-size: 22px;
+    opacity: 0.75;
+    cursor: pointer;
+  }
+  
+  #footer p:hover {
+    color: #dbd9d9;
+  }
+  
+  .footer-column h2 {
+    margin-bottom: 20px;
+  }
+  .footer-column {
+    color: white;
+    font-size: 23px;
+  }
+  
+  .white-box p {
+    font-size: 16px;
+    margin-top: 15px;
+    color: white;
+    opacity: 0.6
+  }
