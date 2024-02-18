@@ -296,3 +296,32 @@
     top: 53px;
     left: 4px;
 }
+.above-footer{
+    width: 1921px;
+    height: 765px;
+    background: rgba(31, 62, 80, 0.08);
+}
+.afooter-text-1{
+    color: var(--primary-colour, #1F3E50);
+    font-family: Jost;
+    font-size: 39px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.afooter-text-2{
+    color: #585858;
+    font-family: Jost;
+    font-size: 39px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.afooter-text-3{
+    color: #6E6E6E;
+    font-family: Jost;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 156.06%;
+}
