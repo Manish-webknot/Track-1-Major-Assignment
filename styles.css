@@ -177,3 +177,75 @@
 .recom-1 {
     max-width: 450px;
 }
+.bill-text-1{
+    color: #000;
+    font-family: Jost;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.bill-text-2{
+    width: 1060px;
+    color: #6F6F6F;
+    text-align: center;
+    font-family: Jost;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.bill-rapper{
+    width: 1920px;
+    height: 1205px;
+    background: rgba(31, 62, 80, 0.08);
+}
+.button-outer{
+    width: 519px;
+    height: 71px;
+    border-radius: 10px;
+    border: 1px solid var(--primary-colour, #1F3E50);   
+}
+.button-inner{
+    width: 269px;
+    height: 71px;
+    border-radius: 10px;
+    background: var(--primary-colour, #1F3E50);
+}
+.outer-text{
+    color: #1F3E50;
+    font-family: Jost;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.inner-text{
+    color: #FFF;
+    font-family: Jost;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.bill-card-1{
+    width: 352px;
+    height: 712px;  
+    border-radius: 20px;
+    border: 1px solid #ECECEC;
+    background: #FFF;
+}
+.bill-card-2{
+    width: 352px;
+    height: 712px;
+    border-radius: 20px;
+    border: 1px solid #ECECEC;
+    background: var(--primary-colour, #1F3E50);
+}
+.bill-card-3{
+    width: 352px;
+    height: 712px;
+    border-radius: 20px;
+    border: 1px solid #ECECEC;
+    background: #FFF;
+}
