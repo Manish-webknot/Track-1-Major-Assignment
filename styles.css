@@ -249,3 +249,50 @@
     border: 1px solid #ECECEC;
     background: #FFF;
 }
+.customer-text{
+    color: #162334;
+    text-align: center;
+    font-family: Jost;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.recom-arrow-img{
+    transform: rotate(180deg);
+}
+.customer-card{
+    width: 310px;
+    height: 325.578px;
+    border-radius: 16px;
+    background: #FFF;
+    box-shadow: 0.779px 0.779px 7.789px 0px rgba(0, 0, 0, 0.25);
+}
+.part-1-name{
+    color: #000;
+    font-family: Jost;
+    font-size: 18.693px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.part-1-text{
+    width: 215.754px;
+    height: 49.07px; 
+    color: #000;
+    text-align: center;
+    font-family: Manrope;
+    font-size: 12.17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.logo{
+    width: 99.698px;
+    height: 99.698px;
+    border-radius: 99.698px;
+}
+.inverted-comma{
+    top: 53px;
+    left: 4px;
+}
