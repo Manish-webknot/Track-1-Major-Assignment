@@ -135,3 +135,45 @@
     font-weight: 400;
     line-height: normal;
 }
+.caption-text-1{
+    color: #162334;
+    font-family: Jost;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.caption-text-2{
+    width: 1259px;
+    color: #585858;
+    text-align: center;
+    font-family: Jost;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.recom-1-img{
+    top: 30%;
+    left: 35%;
+}
+.recom1-text{
+    color: #162334;
+    font-family: Jost;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.recom2-text{
+    color: #6F6F6F;
+    text-align: center;
+    font-family: Jost;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.recom-1 {
+    max-width: 450px;
+}
