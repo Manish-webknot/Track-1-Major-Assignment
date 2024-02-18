@@ -90,3 +90,48 @@
     flex: 1;
     margin: 0 80px;
 }
+.steps-text-1{
+    margin-left: 35px;
+    color: #162334;
+    font-family: Jost;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.steps-text-2{
+    color: #162334;
+    text-align: center;
+    font-family: Jost;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.card-div{
+    width: 365.849px;
+    height: 383.326px;
+    border-radius: 18.642px;
+    background: #FFF;
+    box-shadow: 1.165px 2.33px 20.972px 0px rgba(147, 147, 147, 0.25);
+}
+.card-text-1{
+    color: var(--primary-colour, #1F3E50);
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: "Open Sans";
+    font-size: 30.293px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.card-text-2{
+    width: 316px;
+    height: 43px;
+    color: #585858;
+    font-family: "Open Sans";
+    font-size: 16.312px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
